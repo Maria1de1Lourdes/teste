@@ -4,7 +4,7 @@ st.set_page_config(page_title="Meu App", page_icon="💻", layout="wide")
 
 st.title("💻 Meu Primeiro App")
 
-st.image("pérola.png", use_container_width=True)
+st.image("perola.png", use_container_width=True)
 
 st.markdown("## 👋 Bem-vindo!")
 st.write("Este é um app simples criado com Streamlit.")
